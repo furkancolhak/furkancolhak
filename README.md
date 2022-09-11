@@ -6,3 +6,6 @@ is specifically Data Science. Machine learning and statistics are compeletly act
 my projects on this website. Also, you can check my medium from @furkancolhak nickname.
 
 Skills: PYTHON(Pandas,Numpy,Scikit-Learn) / SQL 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkancolhak)](https://github.com/anuraghazra/github-readme-stats)
